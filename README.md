@@ -2,7 +2,7 @@
 # Office Escape
 
 ## Overview
-Office Escape is an engaging and humorous game where you navigate the treacherous waters of office life, attempting to escape the clutches of your less-than-pleasant boss. With a blend of stealth, strategy, and office-themed humor, can you make it out without getting fired?
+Office Escape is an engaging and humorous game where you navigate the treacherous waters of office life, attempting to escape the clutches of your less than pleasant boss. With a blend of stealth, strategy, and office themed humor, can you make it out without getting fired?
 
 ## Features
 
